@@ -1,14 +1,14 @@
 # What is the GeoPython Tutorial?
 
 
-The Geopython tutorial has all the info you need, so don't feel obligated to come back here if you're grooving. 
+The Geopython tutorial has all the info you need to get started, click the link below to start your journey.
 
-[GeoPython Tutorial](https://geo-python-site.readthedocs.io/en/latest/)
+[GEO-PYTHON](https://geo-python-site.readthedocs.io/en/latest/)
 
-On the other hand, if you'd like more prep, or get stuck on an exercise... we'll be here.
+On the other hand, if you'd like more preparation, or get stuck on an exercise... we'll be here.
 
-## So what is GeoPython?
-It's a free online course, in english, designed for Python beginners, sponsored by the University of Helsinki. The first course teaches you enough Python to use the Python libraries that have fun names like Pandas and Matplotlib. Libraries are groups of prewritten code that you can use like a tool box. You'll use Python and it's libraries to get real world data from reputable sources, like NOAA. Then you'll learn to turn it into pretty plots that you can put on your resume.
+## So what is GEO-PYTHON?
+It's a free online course, in english, designed for Python beginners, sponsored by the University of Helsinki. The first course teaches you enough Python to use the Python libraries named Pandas and MatplotLib. Libraries are groups of prewritten code that you can use like tools in a toolbox. You'll use Python and it's libraries to get real world data from reputable sources, like NOAA. Then you'll learn to turn the raw data into pretty plots that you can put on your resume.
 
 pretty poly  dot plot
 
