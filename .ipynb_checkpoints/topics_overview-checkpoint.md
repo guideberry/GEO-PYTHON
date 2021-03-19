@@ -1,15 +1,16 @@
 # Topics Overview:
+## Python
 
-
-## Python Language:  
-A hot computer programming language. You can learn the Python language by taking tutorials, watching videos, and practicing Python code in a Python environment.
+Python Language:  
+A hot computer programming language. You learn the Python language by taking tutorials, watching videos, and practicing Python code in a Python environment.
 [More about Python](what_is_python.md)  
 
-## Python Environment:   
-A software package that allows you to run Python code. We'll use the free Python environment in JupyterLab, but you can also download the python interpretor to your computer.  
+Python Environment:   
+A software package that allows you to run Python code. We'll use the free Python environment in JupyterLab, but you can also download it to your computer.  
 
 ## Cloud Computing: 
-Basically doing stuff on the internet you could do at home. Storing your files in Google Drive, using an online calculator, looking up a word at www.websters.com instead of finding the dictionary you know you have somewhere at home. And much MUCH more.
+Basically – doing stuff on the internet you could do at home. "Cloud Computing"  examples are:
+storing your photos on facebook, using an online calculator, looking up a word at www.websters.com instead of finding the dictionary you know you have somewhere at home. See... "simple"
 
 ## Data Analysis:
 Finding the specific data you need from larger sets of data. Relax... you're already a data analyst. TRUST ME. If you ever identified the first name in an address, you've done data analysis. With Python, you can have your minions do 10,000 addresses faster than you can do one, and bonus, no paper cuts.
@@ -22,7 +23,7 @@ GEO-PYTHON's second course explores GIS further.
 ## What is this Guide?
 Everyone learns in different ways and at different speeds. A teacher who is great for one student, may not be great for another. We're all arriving at the start of this path with different skill sets and experiences.
 
-With that in mind, this guide recommends **GeoPython** as the core tutorial because it introduces key technologies that you can explore on your own,  **JupyterLab** as the code development environment because it gives you all the tools you need in one place for free, and **GitHub** because it's a big part of modern software development.
+With that in mind, this guide recommends **GeoPython** as the core tutorial because it introduces key technologies that you can explore on your own,  **JupyterLab** as the code development environment because it opens up a new and better path to learning, and **GitHub** because it's a big part of modern software development.
 
 You can supplement your learning as needed with other tutorials and resources. 
 Links:  
@@ -39,16 +40,9 @@ We'll show you our suggested learning roadmap and where to find resources to bui
 [  GEO-PYTHON  ](https://geo-python-site.readthedocs.io/en/latest/)  
 
 ### Read more
-[  Topics overview  ](topics_overview.md)  
-
-[  What is Python?  ](what_is_python.md)  
-
-[  What is GEO-PYTHON?     ]
-
+[  What is GEO-PYTHON?     ](what_is_geopython.md)  
 [  What is JupyterLab?  ](what_is_jupyterlab.md)  
-
 [  What is GitHub?  ](what_is_github.md)  
-
-[  What is this guide?   ](index.md)  
-
-(what_is_geopython.md)  
+[  What is this guide?   ](what_is_this_guide.md)  
+[  What is Python?  ](what_is_python.md)  
+[  Topics overview  ](topics_overview.md)  
