@@ -35,7 +35,4 @@ Learn more about the topics covered in each chapter
 We'll show you our suggested learning roadmap and where to find resources to build your own learning path.
 
 
-
-[  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) 
-
-
+[  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)

@@ -6,4 +6,4 @@ Jupyter notebooks are so popular, many tutorials are writting in that format. Ou
 
 
 
-[  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) 
+[  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)
