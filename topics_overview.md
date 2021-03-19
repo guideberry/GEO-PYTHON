@@ -27,4 +27,4 @@ With that in mind, this guide recommends **GeoPython** as the core tutorial beca
 You can supplement your learning as needed with other tutorials and resources. 
 
 
-[  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)
+[  GEO-PYTHON COURSE  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)

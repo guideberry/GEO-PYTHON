@@ -30,4 +30,4 @@ And best of all, Python is fun! You can create interesting projects, solve puzzl
 But you're already motivated aren't you? It's the 92,000 avg salary for Python developers isn't it?
 
 
-[  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)
+[  GEO-PYTHON COURSE  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)
