@@ -1,16 +1,22 @@
 # What is this Guide?
-This guide is designed to help you prepare for, and complete, the free GeoPython course from Helsinki University. The GeoPython course teaches basic Python, Python libraries, and data analysis techiques (GIS is taught in the second course Automating GIS).  There are 7 lessons that progressively take you through all the steps needed to collect weather data from NOAA and display it in a graph.  The lessons may each take anywhere from a few hours to complete, to a few days.
-
-The GeoPython tutorial:  
-**GeoPython**  website is the course book,  
-**JupyterLab** is the code development environment,  
-**GitHub** hosts your code and the course materials.
 
 
-![Image](img/Hels_Parts1.svg)
- 
+## Purpose
+This guide is designed to help you prepare for, and complete, the free [ GEO-PYTHON](https://geo-python-site.readthedocs.io/en/latest/) course from Helsinki University.  You definately don't need to read this guide before you get started with the course. But you can if you like. 
 
-All of this will be explained in the course and additional resources will be listed. 
+
+## Authors
+We are not affiliated with the GEO-PYTHON course.  
+
+We *are* very greatful to the instructors and the University of Helsinki for providing this course free of charge and with batteries included. It has introduced many new technoligies and help move our learning forward. Hope it does the same for you.
+
+
+
+
+
+
+
+
 
 
 [  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)
