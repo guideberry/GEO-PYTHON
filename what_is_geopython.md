@@ -5,7 +5,7 @@ The Geopython tutorial has all the info you need to get started, click the link 
 
 [GEO-PYTHON](https://geo-python-site.readthedocs.io/en/latest/)
 
-On the other hand, if you'd like more preparation, or get stuck on an exercise... we'll be here.
+On the other hand, if you'd like to read more before you start, or if you get stuck on an exercise... we'll be here.
 
 ## So what is GEO-PYTHON?
 It's a free online course, in english, designed for Python beginners, sponsored by the University of Helsinki. The first course teaches you enough Python to use the Python libraries named Pandas and MatplotLib. Libraries are groups of prewritten code that you can use like tools in a toolbox. You'll use Python and it's libraries to get real world data from reputable sources, like NOAA. Then you'll learn to turn the raw data into pretty plots that you can put on your resume.

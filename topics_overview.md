@@ -26,7 +26,7 @@ With that in mind, this guide recommends **GeoPython** as the core tutorial beca
 
 You can supplement your learning as needed with other tutorials and resources. 
 Links:  
-Learn about the science of learning  
+[  Learn about the science of learning  ](https://www.youtube.com/results?search_query=marty+ludell+how+to+study)
 Learn the fundamentals of programming  
 Learn more about the Python language  
 Learn more about the topics covered in each chapter  
