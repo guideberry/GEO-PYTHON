@@ -11,7 +11,7 @@
 
 [  W3 Schools Interactive Python Tutorials ](https://www.w3schools.com/python/)  
 
-[  W3 Schools Interactive Python Tutorials ](https://youtu.be/vd2dtkMINIw?t=2589)  
+[  W3 Schools Interactive Python Tutorials ](https://youtu.be/vd2dtkMINIw?t=141)  
 
 [  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)
 
