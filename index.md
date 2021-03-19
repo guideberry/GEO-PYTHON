@@ -1,10 +1,13 @@
-# Free guide to learning Python and Data Analysis for free
+# Guideberry for the (free) Python, Data Analysis and GIS course:
+
+[<img src="img/geopython.png" alt="drawing" />](https://geo-python-site.readthedocs.io/en/latest/)  
 ## What is this Guide?
 Hello! Welcome! and Congratulations!  
 You can you can do this! If you are reading this on a device attached to the internet, then you have all the skills needed to get started. 
 
 ## Purpose
-This guide is designed to help you prepare for, and complete, the free [ GEO-PYTHON](https://geo-python-site.readthedocs.io/en/latest/) course from Helsinki University.  You definately don't need to read this guide before you get started with the course. But you can if you like. 
+
+This guide is designed to help you prepare for, and complete, the free [<img src="img/geopython.png" alt="Geo-Python"  width="80"/>](https://geo-python-site.readthedocs.io/en/latest/)  course from Helsinki University.  You definately don't need to read this guide before you get started with the course. But you can if you like. 
 
 
 ## Authors
