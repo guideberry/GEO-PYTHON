@@ -25,14 +25,6 @@ Everyone learns in different ways and at different speeds. A teacher who is grea
 With that in mind, this guide recommends **GeoPython** as the core tutorial because it introduces key technologies that you can explore on your own,  **JupyterLab** as the code development environment because it gives you all the tools you need in one place for free, and **GitHub** because it's a big part of modern software development.
 
 You can supplement your learning as needed with other tutorials and resources. 
-Links:  
-[  Learn about the science of learning  ](https://www.youtube.com/results?search_query=marty+ludell+how+to+study)
-Learn the fundamentals of programming  
-Learn more about the Python language  
-Learn more about the topics covered in each chapter  
-
-
-We'll show you our suggested learning roadmap and where to find resources to build your own learning path.
 
 
 [  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)
