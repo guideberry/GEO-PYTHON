@@ -12,8 +12,6 @@ The GeoPython tutorial:
 
 All of this will be explained in the course and additional resources will be listed. 
 
-## Start the course
-[  GEO-PYTHON  ](https://geo-python-site.readthedocs.io/en/latest/)  
 
-[  Read more  ](read_more.md)  
+[  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) 
 

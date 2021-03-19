@@ -10,3 +10,6 @@
 [  What is GitHub?  ](what_is_github.md)  
 
 [  What is this guide?   ](index.md)  
+
+
+[  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) 
