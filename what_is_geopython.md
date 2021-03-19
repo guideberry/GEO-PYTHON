@@ -11,7 +11,7 @@ This is intended to be a 7 week course. The lesson lengths and difficulty vary. 
 
 
  
-## How they teach  
+## Course Materials 
 
 **GeoPython**  website is the course book,  
 **JupyterLab** is the code development environment,  
