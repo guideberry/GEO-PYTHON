@@ -8,16 +8,11 @@ This guide is designed to help you prepare for, and complete, the free [ GEO-PYT
 ## Authors
 We are not affiliated with the GEO-PYTHON course.  
 
-We *are* very greatful to the instructors and the University of Helsinki for providing this course free of charge and with batteries included. It has introduced many new technoligies and help move our learning forward. Hope it does the same for you.
+We *are* very greatful to the instructors and the University of Helsinki for providing this course free of charge and with batteries included. It has introduced new technoligies and helped move our learning forward. Hope it does the same for you.
+
+[  Our Guide to the course  ](what_is_geopython.md) 
 
 
 
-
-
-
-
-
-
-
-[  GEO-PYTHON Course  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)
+[  GEO-PYTHON COURSE  ](https://geo-python-site.readthedocs.io/en/latest/)  |  [  More info about the course  ](read_more.md) | [  Resources  ](learn_more.md) |  [Table of Learning  ](table_of_learning.md)
 
