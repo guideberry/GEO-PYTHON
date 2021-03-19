@@ -25,19 +25,7 @@ There are no solutions provided for the exercises at the end of the lessons. The
 ## Start the course
 [  GEO-PYTHON  ](https://geo-python-site.readthedocs.io/en/latest/)  
 
-### Read more
-[  Topics overview  ](topics_overview.md)  
-
-[  What is Python?  ](what_is_python.md)  
-
-[  What is JupyterLab?  ](what_is_jupyterlab.md)  
-
-[  What is GitHub?  ](what_is_github.md)  
-
-[  What is this guide?   ](index.md)  
-
-[  What is GEO-PYTHON?     ](what_is_geopython.md)  
-
+[  Read more  ](read_more.md)  
 
 
 

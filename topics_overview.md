@@ -35,20 +35,9 @@ Learn more about the topics covered in each chapter
 We'll show you our suggested learning roadmap and where to find resources to build your own learning path.
 
 
-### Start the course
+## Start the course
 [  GEO-PYTHON  ](https://geo-python-site.readthedocs.io/en/latest/)  
 
-### Read more
-[  Topics overview  ](topics_overview.md)  
+[  Read more  ](read_more.md)  
 
-[  What is Python?  ](what_is_python.md)  
 
-[  What is GEO-PYTHON?     ]
-
-[  What is JupyterLab?  ](what_is_jupyterlab.md)  
-
-[  What is GitHub?  ](what_is_github.md)  
-
-[  What is this guide?   ](index.md)  
-
-(what_is_geopython.md)  
