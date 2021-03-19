@@ -1,5 +1,5 @@
 # Learn More:  
-[  Study Less Study Smart - Marty Lobdell (youtube video) ](https://www.youtube.com/results?search_query=marty+ludell+how+to+study)  
+[  Study Less Study Smart - Marty Lobdell (youtube video) ](https://www.youtube.com/watch?v=IlU-zDU6aQ0)  
 
 [  Barbara Oakley - Learning How To Learn (youtube video)  ](https://youtu.be/vd2dtkMINIw?t=141)  
 

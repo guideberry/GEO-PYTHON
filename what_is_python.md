@@ -1,10 +1,6 @@
 # What is Python?
 
-Hello! Welcome! and Congratulations!  
-You can you can do this! If you are reading this sentence on a device attached to the internet, then you have all the skills needed to get started. 
 
-Python
-------  
 Like English, Python is a language. It's a much smaller language than english and only takes a few minutes to get started writing code. Let's compare how the two languages communicate the same action.  
 
 English:   
