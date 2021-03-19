@@ -1,0 +1,3 @@
+git config --global user.email "librainyday@gmail.com"
+git config --global user.name "lilLib rainday"
+git config credential.helper 'cache --timeout=3000'
