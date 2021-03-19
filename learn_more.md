@@ -1,7 +1,7 @@
 # Learn More:  
-[  Study Less Study Smart | Marty Lobdell (youtube video) ](https://www.youtube.com/results?search_query=marty+ludell+how+to+study)  
+[  Study Less Study Smart - Marty Lobdell (youtube video) ](https://www.youtube.com/results?search_query=marty+ludell+how+to+study)  
 
-[  Barbara Oakley | Learning How To Learn ](https://youtu.be/vd2dtkMINIw?t=141)  
+[  Barbara Oakley - Learning How To Learn (youtube video)  ](https://youtu.be/vd2dtkMINIw?t=141)  
 
 [  Programming Fundamentals (free cousera course)  ](https://www.coursera.org/learn/programming-fundamentals)  
 
